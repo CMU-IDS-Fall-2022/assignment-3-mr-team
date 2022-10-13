@@ -189,3 +189,4 @@ st.write("After looking at the pie chart for different years, we can see that sn
 
 st.write("Awesome Job! Now Taylor knows what clothes to carry on his vacation and can easily choose what months are the best to visit the city of Seattle!")
 
+st.write("Database Link: https://raw.githubusercontent.com/vega/vega/main/docs/data/seattle-weather.csv")
